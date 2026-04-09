@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <h1>✨ lk-eternal 的数字花园 ✨</h1>
+  <p><i>“优雅永不过时”</i></p>
+</div>
 
-<!--
-**lk-eternal/lk-eternal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔨 活跃开源项目
+* [feishu-cursor-bridge](https://github.com/lk-eternal/feishu-cursor-bridge) - 飞书 x Cursor 数字雇员 7x24小时待命。
 
-Here are some ideas to get you started:
+### 🔭 正在探索
+目前我对 **AI自动化** 非常感兴趣，如果你有好的想法，欢迎提 Issue 讨论！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">祝你有美好的一天！☕</p>
