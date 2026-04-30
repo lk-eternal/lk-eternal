@@ -4,6 +4,7 @@
 </div>
 
 ### 🔨 活跃开源项目
+* [cursor-claw](https://github.com/lk-eternal/cursor-claw) - 飞书|微信 x Cursor 数字雇员 7x24小时待命。
 * [feishu-cursor-bridge](https://github.com/lk-eternal/feishu-cursor-bridge) - 飞书 x Cursor 数字雇员 7x24小时待命。
 
 ### 🔭 正在探索
