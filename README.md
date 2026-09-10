@@ -4,7 +4,8 @@
 </div>
 
 ### 🔨 活跃开源项目
-* [cursor-claw](https://github.com/lk-eternal/cursor-claw) - 飞书 / 微信 x Cursor 数字雇员 7x24小时待命。
+* [lk-harness](https://github.com/lk-eternal/lk-harness) - 飞书 / 微信 x AI 数字雇员 7x24小时待命。
+* [cursor-claw](https://github.com/lk-eternal/cursor-claw)[lk-harness前身] - 飞书 / 微信 x Cursor 数字雇员 7x24小时待命。
 * [feishu-cursor-bridge](https://github.com/lk-eternal/feishu-cursor-bridge)[cursor-claw前身] - 飞书 x Cursor 数字雇员 7x24小时待命。
 
 ### 🔭 正在探索
